@@ -7,7 +7,7 @@
 Hint: use the eyedropper tool
 
 ##### Solution
-####### Social Media 
+###### Social Media 
 **Twitter:**
 * Twiiter uses #1DA1F2 (tint of blue) , as the twiiter mascot (bird) is blue (#1DA1F2) in color.
 Blue signifies trustworthiness. User’s trust in a platform is very important for social media platform.
@@ -16,7 +16,7 @@ Also blue is a cool colour which is soothing to eyes as well. Twitter uses #ffff
 **Youtube**:
 * Youtube uses #FF0000 , #282828 (greyish black) for text and #ffffff in its color palete. Red is a bright ,attractive and eyecatching colour. As it is a social media platform, the colors attract users towards the platform. The black and white colors for background and text creates good contrast and dark mode increases the auience spectrum of the product.
 
-####### Health: 
+###### Health: 
 **1. Curefit**
 (mobile app)
 * Curfit is a fitness and healthcare based app. It uses #ff3278(pink) along with #000000(black) for text and #ffffff (white) as neutral color. Pink signifies love,compassion, nurturing which goes well with the product evoking the emotion of selflove, nurturing ,care. Also, the images have blue and purple tones along with pink which are analogous colors in color wheel which go well with the theme.
