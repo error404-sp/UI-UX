@@ -36,6 +36,53 @@ The shade of green is not too dark but enough to grab user’s attention. Here g
 **Coursera(web app)**
 * Coursera uses #0056d2 (dark blue) along with #1f1f1f for text and #ffffff(white) as neutral color. Here blue is used to signify relibility, serenity,inspiration , stability which are outcomes expected fro getting good education. It induces reliabitity of education in the users. 
 
+*****************************************************
+
+## Task Title: Design Task 3.2 Knowledge Test
+
+#### Problem-statement:
+* Reply with the correct answers to the questions in the same order as the questions
+
+ 
+
+1. Why is it important to use good typography?
+
+a. To ensure legibility
+
+b. It holds reader's attention
+
+c. It helps convey information faster
+
+d. All of the above
+
+ 
+
+2. The horizontal line on which the lowercase letter sits is called what?
+
+a. Descender
+
+b. Baseline
+
+c. Leading
+
+ 
+
+3. What is Kerning?
+
+a. It's the amount of space between two characters
+
+b. It's a type of horse saddle
+
+c. It's a game UX Designers play
+
+
+##### Solution
+
+1. d. All of the above
+2. b. Baseline
+3. a. It's the amount of space between two characters
+
+
 
 
 
