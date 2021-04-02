@@ -102,6 +102,44 @@
 * Every element on a user interface has a level of importance. 
 * Some elements are more important than others
 * Visual hierarchy is how we establish this importance.
+
+## Colors
+### Color psychology
+* **Red**: Excitement,Strength,Love,Energy
+* **Orange**: Confidence,success,bravery,Socialibity
+* **Yellow**: Creativity, Happiness,Warmth,Cheer
+* **Green**: Nature, Healing, Freshness, Quality
+* **Blue**: Trust,Peace,Loyalty,Competence
+* **Pink**: Compassion,sincerety,sophistication,sweet
+* **Brown**: Dependable,Rugged,Trustworthy,Simple
+* **Black**: Formality,Dramatic,Sophistication,Security
+* **White**: Clean,Simplicity,Innocence,Honest
+
+### 60-30-10 rule
+* 60 : neutral
+* 30 : complementary
+* 10 : accent
+
+### General rules
+* Always start with grayscale first
+* Visual weight : fontsize,whitespace,color
+* Match color to the brand.
+* Well balanced colour scheme(60-30-10)
+* Use colors as cue
+   * colors should be used to simplify interaction with process
+   * Distinguish interactive and static object
+   * Describe current state of object
+   * Focus user attention on important messages
+* Accessibility first
+   * Right color contrast
+   * WCAG 4.5:1   3:1
+   * Don't rely only on colors,use icons as well
+* Test color choices with users
+* Learn to design interfaces
+
+
+
+
    
     
  
