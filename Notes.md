@@ -1,4 +1,4 @@
-## What is User Interface
+# What is User Interface
 ### Order of Grouping
   * Grouping logically connected information together
   * using boxes,spaces
@@ -32,7 +32,7 @@
    * UI design palletes
    * consistency
 
-## What is User Experience
+# What is User Experience
    * User Interface design
    * Usability
    * Branding
@@ -67,7 +67,7 @@
   * Visual touchpad
   * typography,color,button 
 
-## Fundamentals of UI
+# Fundamentals of UI
 ### Whitespace
 * Whitespace is the empty space between elements in your interface design
 * It is also called negative space.
@@ -103,7 +103,7 @@
 * Some elements are more important than others
 * Visual hierarchy is how we establish this importance.
 
-## Colors
+# Colors
 ### Color psychology
 * **Red**: Excitement,Strength,Love,Energy
 * **Orange**: Confidence,success,bravery,Socialibity
