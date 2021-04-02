@@ -8,11 +8,11 @@
 * **Alignment text**
   * left to right
 
-* Users interact with User Interface by 
+* **Users interact with User Interface by** 
      * GUI(Graphical User Interface)
      * VUI(Voice user Interface)
      * Gesture-based (VR)
-* Users go for
+* **Users go for**
      * Usability and likability
      * Getting task done with minimum effort.
      * focus should be on getting task done
