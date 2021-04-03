@@ -137,7 +137,18 @@
 * Test color choices with users
 * Learn to design interfaces
 
-
+### Terminology
+* Hue + add white = tint
+* Hue + add black = shade
+* Hue + add grey = tone
+* Luminous (brightness)
+* Saturation
+* All colors are friends ofneighbours and lovers of their opposite
+* Warm   Cool
+* Monochrome: one colour with different hue ,tint,tone.
+* Complementary : Two opposite colours
+* Analogous colors: next to each other . harmonious colors
+* 
 
 
    
